@@ -17,14 +17,13 @@ O projeto possui:
 MER – Modelo Entidade-Relacionamento.
 DER – Diagrama Entidade-Relacionamento.
 
-Tabelas Criadas
-O banco de dados possui 5 tabelas:
+5 Tabelas Criadas:
 
-* Categoria
-*Local de Armazenamento
-*Situação
-*Alimento
-*Lote
+ * Categoria
+ *Local de Armazenamento
+ *Situação
+ *Alimento
+ *Lote
 
  Parte SQL
 O código SQL foi dividido em três partes:
