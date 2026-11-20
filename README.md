@@ -10,3 +10,38 @@ Objetivo é:
 - Controle de validade.
 - Identificação de alimentos vencidos.
 Um sistema criado sem conexão com banco de dados.
+
+Modelagem do Banco de Dados
+O projeto possui:
+
+MER – Modelo Entidade-Relacionamento.
+DER – Diagrama Entidade-Relacionamento.
+
+Tabelas Criadas
+O banco de dados possui 5 tabelas:
+
+* Categoria
+*Local de Armazenamento
+*Situação
+*Alimento
+*Lote
+
+ Parte SQL
+O código SQL foi dividido em três partes:
+Criação das tabelas.
+Inserção de dados.
+Criação de relatórios.
+
+6. Relatórios
+
+Foram criados 8 relatórios para consultar as informações do estoque, como:
+
+-Lista de alimentos.
+-Produtos vencidos.
+-Produtos que vencem hoje.
+-Quantidade por categoria.
+-Quantidade por local de armazenamento.
+-Resumo dos lotes por situação.
+-Produtos próximos do vencimento.
+-Alimentos com mais de um lote.
+
